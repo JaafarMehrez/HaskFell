@@ -1,3 +1,2 @@
-# HaFocksell
-Implementaion of the Hartree-Fock method using Haskell, a method for approximately solving electronic many-body systems. 
-This code is still under developemnt. 
+# HaskFell
+I am back to using Haskell and this repo is for my own testing with simple implementaion of the Hartree-Fock method. 
